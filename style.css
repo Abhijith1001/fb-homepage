@@ -1,0 +1,149 @@
+.header {
+    background: #3b5897;
+    width: 100%;
+    height: 75px;
+}
+
+body {
+    margin: 0px;
+    font-family: Helvetica;
+}
+
+.logo {
+    width: 50%;
+    padding-top: 20px;
+    float: left;
+
+}
+
+.logo-text {
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 175px;
+}
+
+.login {
+    float: left;
+    padding-top: 5px;
+}
+
+.login-label {
+    color: #fff;
+    font-size: 10px;
+}
+
+.login-controls {
+    margin-left: 246px;
+}
+
+.forgotten {
+    color: #9cb4d8;
+    text-decoration: none;
+    font-size: 11px;
+
+}
+
+.sub-btn {
+    background-color: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+
+.sub-btn:hover {
+    background: #29487d;
+}
+
+.left-section {
+    width: 50%;
+    float: left;
+    padding-left: 200px;
+    padding-top: 40px;
+}
+
+.right-section {
+    padding-top: 40px;
+    width: 30%;
+    float: left;
+
+}
+
+.main-body {
+    background: linear-gradient(white, #D3D8E8);
+    height: 854px;
+    width: 100%;
+}
+
+.image {
+    width: 650px;
+}
+
+.para {
+    font-weight: bold;
+    font-size: 29px;
+    color:#29487d;
+}
+
+.fields {
+    border-radius: 6px;
+    height: 45px;
+    border: 2px solid #ccc;
+    width: 218.5px;
+    font-size: x-large;
+   
+}
+
+.fieldss {
+    border-radius: 6px;
+    height: 45px;
+    width: 450px;
+    border-style: none;
+    border: 2px solid #ccc;
+    font-size: x-large;
+}
+
+.btn {
+    color: #fff;
+    background-color: rgb(55, 161, 55);
+    border: none;
+    width: 200px;
+    height: 40px;
+    border-radius: 6px;
+    font-size: medium;
+    font-weight:bold;
+}
+.btn:hover{
+    background: rgb(79, 184, 79);
+}
+
+::placeholder{
+    color: #ccc;
+}
+
+.p{
+    color: rgb(153, 144, 144);
+    font-size: x-large;
+}
+
+.para2{
+    font-size: small;
+   
+    color:rgb(83, 81, 81);
+}
+
+.radio{
+    font-size: 25px;
+
+}
+
+select{
+    height: 35px;
+    width: 65px;
+}
+
+.fa{
+    color: rgb(100, 85, 85);
+}
